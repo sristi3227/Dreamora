@@ -58,9 +58,6 @@ Dreamora is built with the following technologies:
 
 Want to contribute to Dreamora? 🌟 Fork the repo, submit a **pull request**, and be a part of the story! We welcome **suggestions**, **bug fixes**, and any **improvements** you can bring to the table! 🙌
 
-## 📜 License 📜
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details. 📄
 
 ---
 
