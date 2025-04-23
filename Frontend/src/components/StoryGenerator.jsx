@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>✨ START YOUR DREAM ADVENTURE</h1>
+      <h1>✧˖° Weave a magical story</h1>
       <textarea
         style={{ borderRadius: "10px", width: "600px" }}
         placeholder="Enter your prompt here..."
