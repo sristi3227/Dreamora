@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
 
-CORS(app)  # or CORS(app, origins=["https://your-netlify-site.netlify.app"])
+
 
 
 load_dotenv()
